@@ -8,7 +8,7 @@ Welcome to the Sales and Finance Analytics Repository! This repository serves as
 - **Project Objective:**
     1. Generate a detailed [Customer performance report](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Sales%20Report.pdf) highlighting individual customer contributions and trends.
     2. Conduct an in-depth comparison between [Market performance and Sales targets](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/Market%20vs%20Target%20Performance.pdf) to identify areas of improvement.
-
+       
 - **Purpose of Sales Analytics:**
   Empower businesses to proactively monitor and evaluate their sales activities and performance, fostering data-driven decision-making.
 
