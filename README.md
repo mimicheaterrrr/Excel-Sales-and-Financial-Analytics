@@ -6,7 +6,7 @@ Welcome to the Sales and Finance Analytics Repository! This repository serves as
 ## Sales Report:
 
 - **Project Objective:**
-    1. Generate a detailed [customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) highlighting individual customer contributions and trends.
+    1. Generate a detailed [Customer performance report](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Sales%20Report.pdf) highlighting individual customer contributions and trends.
     2. Conduct an in-depth comparison between [market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) to identify areas of improvement.
 
 - **Purpose of Sales Analytics:**
