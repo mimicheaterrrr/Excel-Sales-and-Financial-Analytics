@@ -7,7 +7,7 @@ Welcome to the Sales and Finance Analytics Repository! This repository serves as
 
 - **Project Objective:**
     1. Generate a detailed [Customer performance report](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Sales%20Report.pdf) highlighting individual customer contributions and trends.
-    2. Conduct an in-depth comparison between [market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) to identify areas of improvement.
+    2. Conduct an in-depth comparison between [Market performance and Sales targets](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/Market%20vs%20Target%20Performance.pdf) to identify areas of improvement.
 
 - **Purpose of Sales Analytics:**
   Empower businesses to proactively monitor and evaluate their sales activities and performance, fostering data-driven decision-making.
@@ -21,8 +21,12 @@ Welcome to the Sales and Finance Analytics Repository! This repository serves as
 ## Finance Report:
 
 - **Project Objective:**
-    1. Create comprehensive Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf) for a granular financial overview.
-    2. Develop Profit and Loss (P&L) reports by [Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf) to identify regional financial trends and opportunities.
+    1. Create comprehensive Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Yeaar.pdf) & [Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf) for a granular financial overview.
+    2. Develop Profit and Loss (P&L) reports by [Markets](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20by%20Markets%20(%20Exercise%20).pdf
+) to identify regional financial trends and opportunities.
+
+
+   
 
 - **Purpose of Sales Analytics:**
   Evaluate financial performance, support informed decision-making, and facilitate transparent communication with stakeholders, ensuring a holistic understanding of the organization's financial health.
