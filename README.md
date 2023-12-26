@@ -21,7 +21,7 @@ Welcome to the Sales and Finance Analytics Repository! This repository serves as
 ## Finance Report:
 
 - **Project Objective:**
-    1. Create comprehensive Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Yeaar.pdf) & [Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf) for a granular financial overview.
+    1. Create comprehensive Profit and Loss (P&L) reports by [Fiscal Year](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20Yeaar.pdf) & [Months](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf) for a granular financial overview.
     2. Develop Profit and Loss (P&L) reports by [Markets](https://github.com/mimicheaterrrr/Excel-Sales-and-Financial-Analytics/blob/main/P%20%26%20L%20by%20Markets%20(%20Exercise%20).pdf
 ) to identify regional financial trends and opportunities.
 
